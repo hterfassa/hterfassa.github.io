@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../sites/dcofall2022/moddev/web/modules/custom"
+		},
+		{
+			"path": "../../custom_modules"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
